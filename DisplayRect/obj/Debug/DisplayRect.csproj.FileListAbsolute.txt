@@ -1,0 +1,12 @@
+H:\A-Winter2016\PROG5060\DisplayRect\DisplayRect\bin\Debug\DisplayRect.exe.config
+H:\A-Winter2016\PROG5060\DisplayRect\DisplayRect\obj\Debug\DisplayRect.csprojResolveAssemblyReference.cache
+H:\A-Winter2016\PROG5060\DisplayRect\DisplayRect\bin\Debug\DisplayRect.exe
+H:\A-Winter2016\PROG5060\DisplayRect\DisplayRect\bin\Debug\DisplayRect.pdb
+H:\A-Winter2016\PROG5060\DisplayRect\DisplayRect\obj\Debug\DisplayRect.exe
+H:\A-Winter2016\PROG5060\DisplayRect\DisplayRect\obj\Debug\DisplayRect.pdb
+C:\Users\Joe\OneDrive\PROG-5060\DisplayRect\DisplayRect\bin\Debug\DisplayRect.exe.config
+C:\Users\Joe\OneDrive\PROG-5060\DisplayRect\DisplayRect\obj\Debug\DisplayRect.exe
+C:\Users\Joe\OneDrive\PROG-5060\DisplayRect\DisplayRect\obj\Debug\DisplayRect.pdb
+C:\Users\Joe\OneDrive\PROG-5060\DisplayRect\DisplayRect\bin\Debug\DisplayRect.exe
+C:\Users\Joe\OneDrive\PROG-5060\DisplayRect\DisplayRect\bin\Debug\DisplayRect.pdb
+C:\Users\Joe\OneDrive\PROG-5060\DisplayRect\DisplayRect\obj\Debug\DisplayRect.csprojResolveAssemblyReference.cache
